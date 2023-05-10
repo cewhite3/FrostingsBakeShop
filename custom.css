@@ -48,3 +48,7 @@ font-family: 'Bitter', serif;
 #aboutimg {
     padding: 20px;
 }
+
+#About,#Menu, #Norder, #Weddings, #Contact{
+    padding: 100px;
+} 
