@@ -1,0 +1,50 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+#carouselExampleIndicators,#carouselExampleIndicators2,#carouselExampleIndicators3,#carouselExampleIndicators4,#carouselExampleIndicators5,#carouselExampleIndicators6,#carouselExampleIndicators7
+ {
+	width: 250px;
+	height: 300px;
+}
+
+    #banner {
+        background-image: url("7.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+header {padding: 0px;}
+
+#mainNav {
+  margin-bottom: 0;
+  background-color: #FCF5F5;
+}
+
+#About,#Order,#Contact, 
+#Norder {
+	background-color: #F8E9E9;
+}
+div#Menu, div#Weddings {
+	background-color: blue;
+}
+
+p{color: black;}
+h1,h2,h3,h4,h5{
+	font-family: 'Lobster Two', cursive;
+}
+
+h2{
+	font-weight: bold;
+}
+
+p,ul,li{
+font-family: 'Bitter', serif;
+}
+
+.navbar-brand {
+    font-family: 'Lobster Two', cursive;
+}
+
+#aboutimg {
+    padding: 20px;
+}
